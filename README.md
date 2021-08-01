@@ -10,6 +10,7 @@ I'm a bit surprised of the output. It's amazing and eye catching.
 - ![walk in the deep forest](samples/forest_1982.png)
 - ![calm wind](samples/calm_wind.png)
 - ![starry night](samples/a_starry_night.png)
+- ![treehouse](samples/treehouse2.png)
 
 ### Reference
 - https://ml.berkeley.edu/blog/posts/clip-art/ 
