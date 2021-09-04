@@ -6,6 +6,7 @@ I'm a bit surprised of the output. It's amazing and eye catching.
 
 ### Some samples
 
+- ![pixel deep forest](samples/pixel_deep_forest.png)
 - ![rivers flow in you](samples/rivers_flow_in_you.png)
 - ![walk in the deep forest](samples/forest_1982.png)
 - ![calm wind](samples/calm_wind.png)
